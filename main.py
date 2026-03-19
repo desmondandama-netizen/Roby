@@ -11,3 +11,5 @@ def suggestor(day_of_the_week):
 
 
 suggestor("Monday")
+
+print("This is version 2")
