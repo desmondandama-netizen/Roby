@@ -16,5 +16,3 @@ def check_food_menu(food_menu):
 # function calls
 suggestor("Monday")
 check_food_menu("Greens")
-
-print("This is version 2")
